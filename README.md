@@ -1,2 +1,2 @@
-# test-repo
+# merkezi repo
 tbdeleted
